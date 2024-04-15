@@ -1,0 +1,6 @@
+vhdl work "TRANSITION_LOGIC.vhd"
+vhdl work "OUTPUT_LOGIC.vhd"
+verilog work "LIGHT_CONTROLLER.vf"
+verilog work "TOP_SCHEMA.vf"
+vhdl work "TOP_SCHEME_TEST_BENCH.vhd"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
